@@ -1,0 +1,4 @@
+Model,CV F1 Mean,CV F1 Std,Test Accuracy,Test Precision,Test Recall,Test F1,Test ROC-AUC
+Logistic Regression,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Random Forest,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Extra Trees,1.0,0.0,1.0,1.0,1.0,1.0,1.0
